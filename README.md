@@ -1,6 +1,6 @@
 # musicplayer
 
-A new Flutter project.
+This Music Player includes no libaray support (Custom Code)
 
 ## Getting Started
 
